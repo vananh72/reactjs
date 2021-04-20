@@ -1,0 +1,12 @@
+Kim Vân Anh
+Ý tưởng:(như đã thống nhất) làm 1 web tìm phòng trọ ,liên kết giữa 2 bên cần thuê trọ và muốn cho thuê trọ
+-Đối tượng:+Người muốn cho thuê trọ
+	   +Người có nhu cầu thuê trọ
+-Cách thức:
++Có 2 phần riêng dành cho người muốn cho thuê và người thuê
++Với người cho thuê: điền đầy đủ thông tin phòng trọ cho thuê (tên, số điện thoại,địa điểm,diện tích,giá cả..)
++Với người có nhu cầu thuê:điền thông tin phòng trọ muốn thuê:địa điểm, giá cả, diện tích...
+Sau khi người thuê điền thông tin sẽ gợi ý ra các phòng trọ gần yêu cầu nhất, sau khi xem và đồng ý người thuê có thể gọi trực tiếp cho chủ nhà
+-What:liên kết giữ người cho thuê và người muốn thuê trọ
+-why: +tiết kiệm thời gian và công sức
+      +có thể dễ dàng tìm được phòng trọ mình mong muốn(so với việc phải đi từng nơi để hỏi chi tiết thông tin về phòng trọ mà mình muốn thuê)
